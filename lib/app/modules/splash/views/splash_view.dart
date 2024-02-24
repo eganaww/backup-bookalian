@@ -14,7 +14,7 @@ class SplashView extends GetView<SplashController> {
         height: double.infinity,
         color: Color(0xff009E60),
         child: Center(
-          child: Image.asset('assets/img/logo_bookalian.png', height: 500,)
+          child: Text("SPLASH_FAIL", )
         ),
       ),
     );
