@@ -9,7 +9,7 @@ class RegisterView extends GetView<RegisterController> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Daftar Akun'),
+        title: const Text('Daftar'),
         centerTitle: true,
       ),
       body: Center(
